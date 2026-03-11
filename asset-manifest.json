@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ARIA/static/css/main.e6c13ad2.css",
+    "main.js": "/ARIA/static/js/main.80ef723a.js",
+    "static/js/453.e971c14d.chunk.js": "/ARIA/static/js/453.e971c14d.chunk.js",
+    "index.html": "/ARIA/index.html",
+    "main.e6c13ad2.css.map": "/ARIA/static/css/main.e6c13ad2.css.map",
+    "main.80ef723a.js.map": "/ARIA/static/js/main.80ef723a.js.map",
+    "453.e971c14d.chunk.js.map": "/ARIA/static/js/453.e971c14d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.80ef723a.js"
+  ]
+}
